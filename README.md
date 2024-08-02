@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Faizal Setiawan</h1>
 <h3 align="center">A passionate developer from Country</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FaizalSetiawan&label=Profile%20views&color=0e75b6&style=flat" alt="faizalsetiawan" /> </p>
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🔭 I’m currently school on [SMK ASSALAAM BANDUNG](link-to-project)
 
 - 🌱 I’m currently learning **Technology or Language**
 
 - 💬 Ask me about **Technology or Topic**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **mfaizalsetiawan6612@gmail.com**
 
 - ⚡ Fun fact **Something interesting about you**
 
@@ -24,7 +24,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
