@@ -1,162 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faizal Setiawan</h1>
-<h3 align="center">A passionate full-stack developer from Indonesia</h3>
+<!--
+  README ini dibuat berdasarkan contoh visual yang Anda kirim.
+  Username GitHub: FaizalSetiawan
+  Nama tampil: Zall
+  Sesuaikan tautan sosial (LinkedIn / Instagram / Facebook) bila perlu.
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Laravel+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=FaizalSetiawan&label=Profile%20views&color=0e75b6&style=flat" alt="faizalsetiawan" /> 
-</p>
-
-- 🔭 I'm currently studying at **[SMK ASSALAAM BANDUNG](https://smkassalaambandung.sch.id/)**
-
-- 🌱 I'm currently learning **Laravel, JavaScript, and advanced PHP**
-
-- 💬 Ask me about **PHP, JavaScript, Laravel**
-
-- 📫 How to reach me **mfaizalsetiawan6612@gmail.com**
-
-- ⚡ Fun fact **I enjoy solving complex problems and turning them into simple solutions**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Header / Profile -->
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/your-instagram" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="your-instagram" height="30" width="40" />
-  </a>
+  <img src="https://github.com/FaizalSetiawan.png" alt="avatar" width="120" style="border-radius:50%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  </a>
-  
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
-  </a>
-  
-  <!-- JavaScript -->
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-  </a>
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
-  </a>
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-  </a>
-  
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/>
-  </a>
-  
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-  
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  </a>
-  
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-  
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
+# Hello there 👋 I'm Zall ✨
+
+Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website dan belajar networking.  
+Saya senang bereksperimen dengan front-end, back-end, dan tooling DevOps kecil-kecilan.
+
+---
+
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FaizalSetiawan) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FaizalSetiawan) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FaizalSetiawan)
+
+[![Profile views](https://komarev.com/ghpvc/?username=FaizalSetiawan&style=flat-square)](https://github.com/FaizalSetiawan)
+
+---
+
+## Tech & Tools
+<!-- Badges for quick visuals -->
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<br>
+---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" />
-  
-  <br><br>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=radical" alt="yourusername" />
-  
-  <br><br>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
-</div>
+## GitHub Stats
 
-<br>
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&column=7" alt="yourusername" />
+<!-- GitHub Stats & Top Languages (otomatis berdasarkan username GitHub) -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FaizalSetiawan&show_icons=true&theme=dark&hide_border=true" alt="FaizalSetiawan GitHub stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalSetiawan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+<div style="clear:both"></div>
 
-<br>
+---
 
-<!-- Snake Animation Contribution Grid -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
-</div>
+## About / What I do
+- Membangun aplikasi web fullstack (React / Vue / Node / Laravel / Django)
+- Menyukai clean UI, performance dan deployment otomatis
+- Suka belajar hal baru: jaringan, security dasar, dan infra sederhana
 
-<br>
+---
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<br>
-
-<!-- GitHub Contribution Grid -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
-</div>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+Jika mau ngobrol atau kolaborasi, silakan hubungi saya lewat LinkedIn atau kirim issue / PR di repositori ini.  
+Terima kasih sudah mampir! ✨
