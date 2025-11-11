@@ -159,3 +159,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
 </div>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
