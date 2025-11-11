@@ -63,6 +63,9 @@ Saya senang bereksperimen dengan front-end, back-end, dan tooling DevOps kecil-k
   <!-- Snake animation (popular snippet). This SVG comes from Platane/snk project -->
   <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Contribution Grid Snake" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FaizalSetiawan/FaizalSetiawan/output/snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 <!-- Contribution Activity Graph (alternate view, by username) -->
 <p align="center">
