@@ -1,9 +1,9 @@
-name: Generate Snake Animation 🐍
+name: Generate Snake Animation 🐍 (Hijau Neon)
 
 on:
   schedule:
     - cron: "0 */12 * * *"  # dijalankan tiap 12 jam
-  workflow_dispatch:       # bisa dijalankan manual juga
+  workflow_dispatch:        # bisa dijalankan manual juga
 
 jobs:
   build:
@@ -14,11 +14,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG (Hijau Neon)
         uses: Platane/snk@master
         with:
           github_user_name: FaizalSetiawan
           outputs: dist/snake.svg
+          # Warna neon green dan tema gelap
+          snake_color: "#39FF14"
+          background_color: "000000"
+          color_snake: "39FF14"
+          color_dots: "#0f0, #39ff14, #00ff99, #baff00"
 
       - name: Upload snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
