@@ -6,82 +6,70 @@
 -->
 
 <!-- Running text / Marquee -->
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    👋 Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website • Selamat datang di profil saya! ✨
-  </marquee>
-</p>
-
 <!-- Header / Profile -->
-
-<p align="left">
-  <!-- Ganti logo profil kecil menjadi logo Arch -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch-logo" width="120" style="border-radius:50%"/>
-</p>
-
 # Hello there 👋 I'm Zall ✨
-
-Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website dan belajar networking.
+![Faizal Setiawan](img/github-header-banner.png)
+Halo! Saya Zall (Muhammad Faizal Setiawan) — Fullstack Developer yang suka membuat website dan belajar networking.
 Saya senang bereksperimen dengan front-end, back-end, dan tooling DevOps kecil-kecilan.
 
 ---
 
-## Links
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/FaizalSetiawan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/FaizalSetiawan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/FaizalSetiawan)
 
-[![Profile views](https://komarev.com/ghpvc/?username=FaizalSetiawan\&style=flat-square)](https://github.com/FaizalSetiawan)
+<p align="left">
+  <a href="https://www.linkedin.com/in/FaizalSetiawan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.instagram.com/fizal_setiawan139/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FaizalSetiawan&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p> 
 
 ---
 
-## Tech & Tools
+## Tech
 
 <!-- Badges for quick visuals -->
-
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,nodejs,php,python&theme=dark" />
+  </a>
 </p>
 
 ---
-
-## GitHub Stats & Contribution Visuals
-
-<!-- New layout: stats on left, languages on right, contribution heatmap and snake centered below -->
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FaizalSetiawan&show_icons=true&theme=dark&hide_border=true" alt="FaizalSetiawan GitHub stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalSetiawan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-<div style="clear:both"></div>
-
-<!-- Contribution Grid Snake (diperbarui): gunakan versi terpusat dan gambar snake buatan lokal jika tersedia -->
-
-<p align="center">
-  <!-- Versi snake resmi dari Platane -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Contribution Grid Snake" style="max-width:260px;" />
-  <!-- Contribution graph (activity-graph) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=FaizalSetiawan&theme=react-dark" alt="Contribution Graph" style="max-width:720px; display:block; margin-top:12px;" />
-</p>
+## Website & Tools
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FaizalSetiawan&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FaizalSetiawan&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalSetiawan&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=FaizalSetiawan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## About / What I do
 
 * Membangun aplikasi web fullstack (React / Vue / Node / Laravel / Django)
 * Menyukai clean UI, performance dan deployment otomatis
 * Suka belajar hal baru: jaringan, security dasar, dan infra sederhana
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizalSetiawan/FaizalSetiawan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizalSetiawan/FaizalSetiawan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaizalSetiawan/FaizalSetiawan/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
