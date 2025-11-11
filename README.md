@@ -5,6 +5,13 @@
   Sesuaikan tautan sosial (LinkedIn / Instagram / Facebook) bila perlu.
 -->
 
+<!-- Running text / Marquee -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    👋 Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website • Selamat datang di profil saya! ✨
+  </marquee>
+</p>
+
 <!-- Header / Profile -->
 <p align="left">
   <img src="https://github.com/FaizalSetiawan.png" alt="avatar" width="120" style="border-radius:50%">
@@ -43,14 +50,24 @@ Saya senang bereksperimen dengan front-end, back-end, dan tooling DevOps kecil-k
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Contribution Visuals
 
-<!-- GitHub Stats & Top Languages (otomatis berdasarkan username GitHub) -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=FaizalSetiawan&show_icons=true&theme=dark&hide_border=true" alt="FaizalSetiawan GitHub stats" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalSetiawan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 <div style="clear:both"></div>
+
+<!-- Contribution Grid Snake (animation) -->
+<p align="center">
+  <!-- Snake animation (popular snippet). This SVG comes from Platane/snk project -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Contribution Grid Snake" />
+</p>
+
+<!-- Contribution Activity Graph (alternate view, by username) -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=FaizalSetiawan&theme=react-dark" alt="Contribution Graph" />
+</p>
 
 ---
 
