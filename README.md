@@ -6,6 +6,7 @@
 -->
 
 <!-- Running text / Marquee -->
+
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
     👋 Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website • Selamat datang di profil saya! ✨
@@ -13,28 +14,33 @@
 </p>
 
 <!-- Header / Profile -->
+
 <p align="left">
-  <img src="https://github.com/FaizalSetiawan.png" alt="avatar" width="120" style="border-radius:50%">
+  <!-- Ganti logo profil kecil menjadi logo Arch -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch-logo" width="120" style="border-radius:50%"/>
 </p>
 
 # Hello there 👋 I'm Zall ✨
 
-Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website dan belajar networking.  
+Halo! Saya Zall (FaizalSetiawan) — Fullstack Developer yang suka membuat website dan belajar networking.
 Saya senang bereksperimen dengan front-end, back-end, dan tooling DevOps kecil-kecilan.
 
 ---
 
 ## Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FaizalSetiawan) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FaizalSetiawan) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FaizalSetiawan)
 
-[![Profile views](https://komarev.com/ghpvc/?username=FaizalSetiawan&style=flat-square)](https://github.com/FaizalSetiawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/FaizalSetiawan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/FaizalSetiawan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/FaizalSetiawan)
+
+[![Profile views](https://komarev.com/ghpvc/?username=FaizalSetiawan\&style=flat-square)](https://github.com/FaizalSetiawan)
 
 ---
 
 ## Tech & Tools
+
 <!-- Badges for quick visuals -->
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -52,34 +58,32 @@ Saya senang bereksperimen dengan front-end, back-end, dan tooling DevOps kecil-k
 
 ## GitHub Stats & Contribution Visuals
 
+<!-- New layout: stats on left, languages on right, contribution heatmap and snake centered below -->
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=FaizalSetiawan&show_icons=true&theme=dark&hide_border=true" alt="FaizalSetiawan GitHub stats" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalSetiawan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 <div style="clear:both"></div>
 
-<!-- Contribution Grid Snake (animation) -->
-<p align="center">
-  <!-- Snake animation (popular snippet). This SVG comes from Platane/snk project -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Contribution Grid Snake" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FaizalSetiawan/FaizalSetiawan/output/snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<!-- Contribution Grid Snake (diperbarui): gunakan versi terpusat dan gambar snake buatan lokal jika tersedia -->
 
-<!-- Contribution Activity Graph (alternate view, by username) -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=FaizalSetiawan&theme=react-dark" alt="Contribution Graph" />
+  <!-- Versi snake resmi dari Platane -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Contribution Grid Snake" style="max-width:260px;" />
+  <!-- Contribution graph (activity-graph) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=FaizalSetiawan&theme=react-dark" alt="Contribution Graph" style="max-width:720px; display:block; margin-top:12px;" />
 </p>
 
 ---
 
 ## About / What I do
-- Membangun aplikasi web fullstack (React / Vue / Node / Laravel / Django)
-- Menyukai clean UI, performance dan deployment otomatis
-- Suka belajar hal baru: jaringan, security dasar, dan infra sederhana
+
+* Membangun aplikasi web fullstack (React / Vue / Node / Laravel / Django)
+* Menyukai clean UI, performance dan deployment otomatis
+* Suka belajar hal baru: jaringan, security dasar, dan infra sederhana
 
 ---
 
-Jika mau ngobrol atau kolaborasi, silakan hubungi saya lewat LinkedIn atau kirim issue / PR di repositori ini.  
+Jika mau ngobrol atau kolaborasi, silakan hubungi saya lewat LinkedIn atau kirim issue / PR di repositori ini.
 Terima kasih sudah mampir! ✨
